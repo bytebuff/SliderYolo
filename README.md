@@ -1,6 +1,8 @@
 # SliderYolo
 SliderYolo是采用百度飞桨PPYolo训练而来，可以识别易盾，云片，极验，腾讯等各种正方形滑块！识别率99.9999%！
 
+# 滑块识别交流
+![](https://github.com/EnjoyScraping/SliderYolo/blob/main/output/2020-06-24_13-25-28.png)
 # 使用方式
 
 下载整个项目，然后解压`__params__.zip`文件，将解压出来的`__params__`文件放在和`__model__`同目录下即可！
