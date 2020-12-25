@@ -66,4 +66,4 @@ class_id:0, confidence:0.9922,left_top:[165.78,74.90], right_bottom:[207.54,114.
         207.54053   , 114.0648    ]], dtype=float32)}
 ```
 
-![fc8572b93baa42d689bf4915065b8c7a](C:\Users\turingcoffee\Documents\Forks\SliderYolo\output\fc8572b93baa42d689bf4915065b8c7a.jpg)
+![fc8572b93baa42d689bf4915065b8c7a](SliderYolo/output/fc8572b93baa42d689bf4915065b8c7a.jpg)
