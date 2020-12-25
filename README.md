@@ -67,3 +67,9 @@ class_id:0, confidence:0.9922,left_top:[165.78,74.90], right_bottom:[207.54,114.
 ```
 
 ![fc8572b93baa42d689bf4915065b8c7a](https://github.com/EnjoyScraping/SliderYolo/blob/main/output/fc8572b93baa42d689bf4915065b8c7a.jpg)
+
+## 识别性能
+下面分别是在CPU和GPU下的识别性能：
+- CPU：1-2秒
+- GPU：18ms （2080ti）
+
