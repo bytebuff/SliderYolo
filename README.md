@@ -78,3 +78,4 @@ class_id:0, confidence:0.9922,left_top:[165.78,74.90], right_bottom:[207.54,114.
 ![](https://github.com/EnjoyScraping/SliderYolo/blob/main/output/0f8646a42ecf425689906bd47f03885f.jpg)
 ![](https://github.com/EnjoyScraping/SliderYolo/blob/main/output/24487f4052354b988f5de1093b6e11c0.jpg)
 ![](https://github.com/EnjoyScraping/SliderYolo/blob/main/output/37cb03648f0f4e1da1c4a9d7f4a13b3a.jpg)
+![](https://github.com/EnjoyScraping/SliderYolo/blob/main/output/471e4b32ad7c45768d79dd48577d4671.jpg)
