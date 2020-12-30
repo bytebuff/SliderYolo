@@ -74,10 +74,12 @@ class_id:0, confidence:0.9922,left_top:[165.78,74.90], right_bottom:[207.54,114.
 
 ## 识别性能
 下面分别是在CPU和GPU下的识别性能：
-- CPU：1-2秒
+- CPU：684ms 秒
 - GPU：18ms （2080ti）
 # 截图
 ![](https://github.com/EnjoyScraping/SliderYolo/blob/main/output/0f8646a42ecf425689906bd47f03885f.jpg)
 ![](https://github.com/EnjoyScraping/SliderYolo/blob/main/output/24487f4052354b988f5de1093b6e11c0.jpg)
 ![](https://github.com/EnjoyScraping/SliderYolo/blob/main/output/37cb03648f0f4e1da1c4a9d7f4a13b3a.jpg)
 ![](https://github.com/EnjoyScraping/SliderYolo/blob/main/output/471e4b32ad7c45768d79dd48577d4671.jpg)
+# CPU推理速度提升
+在 `infer.py` 文件中的 `config.disable_gpu` 这一行下面，加上 `config.set_cpu_math_library_num_threads(8)` 速度提升好几倍！
